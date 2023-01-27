@@ -1,6 +1,5 @@
 ﻿using AgencyTemplate.DAL;
 using AgencyTemplate.Models;
-using AgencyTemplate.Utilies.Enums;
 using AgencyTemplate.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -21,9 +20,17 @@ namespace AgencyTemplate.Areas.Manage.Controllers
 
         public IActionResult Index(int page=1)
         {
-            ViewBag.MaxPageCount = Math.Ceiling((decimal)_context.Positions.Count() / 2);
-            ViewBag.CurrentPage=page;
-            return View(_context.Positions.Skip((page-1)*2).Take(2).ToList());
+            ICollection<Position> positions = _context.Positions.Skip((page - 1) * 3).Take(3).ToList();
+
+            PaginationVM<Position> paginationVM = new PaginationVM<Position>
+            {
+                MaxPageCount = (int)Math.Ceiling((decimal)_context.Positions.Count()/3),
+                CurrentPage = page,
+                Items = positions
+            };
+            //ViewBag.MaxPageCount = Math.Ceiling((decimal)_context.Positions.Count() / 3);
+            //ViewBag.CurrentPage=page;
+            return View(paginationVM);
         }
 
         public async Task<IActionResult> Create()

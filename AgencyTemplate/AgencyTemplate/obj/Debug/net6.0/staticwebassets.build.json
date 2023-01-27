@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O6xhXIWmxAS9ycJpf/d1nPuV3icEiDJU69GbBR7WY+Q=",
+  "Hash": "YvGgzivcN5/4zLBb2sKY4PP/TszvEuLxoqp8HNZ95mY=",
   "Source": "AgencyTemplate",
   "BasePath": "_content/AgencyTemplate",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AgencyTemplate\\wwwroot",
       "Source": "AgencyTemplate",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AgencyTemplate.styles.css",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AgencyTemplate.styles.css",
       "SourceId": "AgencyTemplate",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "AgencyTemplate.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AgencyTemplate.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AgencyTemplate.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AgencyTemplate.bundle.scp.css",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AgencyTemplate.bundle.scp.css",
       "SourceId": "AgencyTemplate",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "AgencyTemplate.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AgencyTemplate.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AgencyTemplate.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\favicon.ico",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\favicon.ico",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/favicon.ico",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\about\\1.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\about\\1.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/about/1.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\about\\2.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\about\\2.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/about/2.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\about\\3.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\about\\3.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/about/3.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\about\\4.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\about\\4.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/about/4.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\close-icon.svg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\close-icon.svg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/close-icon.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\close-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\header-bg.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\header-bg.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/header-bg.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\header-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\logos\\facebook.svg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\logos\\facebook.svg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/logos/facebook.svg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logos\\facebook.svg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\logos\\google.svg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\logos\\google.svg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/logos/google.svg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logos\\google.svg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\logos\\ibm.svg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\logos\\ibm.svg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/logos/ibm.svg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logos\\ibm.svg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\logos\\microsoft.svg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\logos\\microsoft.svg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/logos/microsoft.svg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logos\\microsoft.svg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\map-image.png",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\map-image.png",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/map-image.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\map-image.png"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\navbar-logo.svg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\navbar-logo.svg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/navbar-logo.svg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\navbar-logo.svg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\1.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\1.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/portfolio/1.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\2.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\2.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/portfolio/2.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\3.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\3.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/portfolio/3.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\4.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\4.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/portfolio/4.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\5.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\5.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/portfolio/5.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\6.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\portfolio\\6.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "assets/img/portfolio/6.jpg",
       "AssetKind": "All",
@@ -374,12 +374,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\team\\3088f503-f1bb-42bf-970b-e7b41b826b502.jfif",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\team\\2f1ae2dc-318a-4779-bcf9-0c7845ecbb4533.jfif",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
-      "RelativePath": "assets/img/team/3088f503-f1bb-42bf-970b-e7b41b826b502.jfif",
+      "RelativePath": "assets/img/team/2f1ae2dc-318a-4779-bcf9-0c7845ecbb4533.jfif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,13 +388,47 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\team\\3088f503-f1bb-42bf-970b-e7b41b826b502.jfif"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team\\2f1ae2dc-318a-4779-bcf9-0c7845ecbb4533.jfif"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\team\\b29d0e27-b5ab-468a-88ed-bb7e2904795733.jfif",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "BasePath": "_content/AgencyTemplate",
+      "RelativePath": "assets/img/team/b29d0e27-b5ab-468a-88ed-bb7e2904795733.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team\\b29d0e27-b5ab-468a-88ed-bb7e2904795733.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\assets\\img\\team\\c823eb7c-1b8a-490e-a3f0-71f0282fcf432.jfif",
+      "SourceId": "AgencyTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "BasePath": "_content/AgencyTemplate",
+      "RelativePath": "assets/img/team/c823eb7c-1b8a-490e-a3f0-71f0282fcf432.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team\\c823eb7c-1b8a-490e-a3f0-71f0282fcf432.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\css\\styles.css",
+      "SourceId": "AgencyTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -408,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\js\\scripts.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\js\\scripts.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",
@@ -425,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\css\\maps\\style.css.map",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\css\\maps\\style.css.map",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/css/maps/style.css.map",
       "AssetKind": "All",
@@ -442,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\css\\maps\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\css\\style.css",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\css\\style.css",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/css/style.css",
       "AssetKind": "All",
@@ -459,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\.DS_Store",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\.DS_Store",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/.DS_Store",
       "AssetKind": "All",
@@ -476,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\auth\\.DS_Store",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\auth\\.DS_Store",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/auth/.DS_Store",
       "AssetKind": "All",
@@ -493,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\auth\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\auth\\lockscreen-bg.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\auth\\lockscreen-bg.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/auth/lockscreen-bg.jpg",
       "AssetKind": "All",
@@ -510,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\auth\\login-bg.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\auth\\login-bg.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/auth/login-bg.jpg",
       "AssetKind": "All",
@@ -527,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\auth\\login-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\auth\\register-bg.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\auth\\register-bg.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/auth/register-bg.jpg",
       "AssetKind": "All",
@@ -544,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\auth\\register-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\.DS_Store",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\.DS_Store",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/.DS_Store",
       "AssetKind": "All",
@@ -561,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face1.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face1.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -578,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face10.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face10.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -595,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face11.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face11.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -612,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face12.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face12.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -629,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face13.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face13.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -646,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face14.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face14.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -663,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face15.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face15.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -680,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face16.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face16.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -697,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face17.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face17.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -714,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face18.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face18.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -731,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face19.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face19.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -748,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face2.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face2.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -765,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face20.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face20.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -782,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face21.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face21.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -799,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face22.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face22.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -816,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face23.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face23.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -833,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face24.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face24.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -850,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face25.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face25.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -867,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face26.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face26.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -884,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face27.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face27.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -901,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face3.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face3.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -918,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face4.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face4.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -935,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face5.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face5.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -952,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face6.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face6.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -969,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face7.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face7.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -986,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face8.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face8.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -1003,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face9.jpg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\faces\\face9.jpg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -1020,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\favicon.ico",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\favicon.ico",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/favicon.ico",
       "AssetKind": "All",
@@ -1037,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\favicon.png",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\favicon.png",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/favicon.png",
       "AssetKind": "All",
@@ -1054,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\logo.svg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\logo.svg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/logo.svg",
       "AssetKind": "All",
@@ -1071,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\logo-mini.svg",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\images\\logo-mini.svg",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/images/logo-mini.svg",
       "AssetKind": "All",
@@ -1088,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\logo-mini.svg"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\.DS_Store",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\.DS_Store",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/.DS_Store",
       "AssetKind": "All",
@@ -1105,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\chart.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\chart.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/chart.js",
       "AssetKind": "All",
@@ -1122,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\Chart.min.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\Chart.min.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/Chart.min.js",
       "AssetKind": "All",
@@ -1139,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\dashboard.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\dashboard.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/dashboard.js",
       "AssetKind": "All",
@@ -1156,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\data-table.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\data-table.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/data-table.js",
       "AssetKind": "All",
@@ -1173,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\data-table.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\dataTables.bootstrap4.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -1190,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\documentation.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\documentation.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/documentation.js",
       "AssetKind": "All",
@@ -1207,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\documentation.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\file-upload.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\file-upload.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/file-upload.js",
       "AssetKind": "All",
@@ -1224,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\file-upload.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\hoverable-collapse.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\hoverable-collapse.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -1241,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\hoverable-collapse.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\jquery.cookie.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\jquery.cookie.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/jquery.cookie.js",
       "AssetKind": "All",
@@ -1258,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\jquery.cookie.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\jquery.dataTables.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/jquery.dataTables.js",
       "AssetKind": "All",
@@ -1275,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\off-canvas.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\off-canvas.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/off-canvas.js",
       "AssetKind": "All",
@@ -1292,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\off-canvas.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\tabs.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\tabs.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/tabs.js",
       "AssetKind": "All",
@@ -1309,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\tabs.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\template.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\js\\template.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/js/template.js",
       "AssetKind": "All",
@@ -1326,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\template.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\.DS_Store",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\.DS_Store",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/.DS_Store",
       "AssetKind": "All",
@@ -1343,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\base\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\base\\bootstrap.min.js.map",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/base/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1360,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\base\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/base/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -1377,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/base/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -1394,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\chart.js\\Chart.min.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\chart.js\\Chart.min.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -1411,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/datatables.net/jquery.dataTables.js",
       "AssetKind": "All",
@@ -1428,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -1445,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -1462,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -1479,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/mdi/css/materialdesignicons.min.css.map",
       "AssetKind": "All",
@@ -1496,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -1513,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -1530,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -1547,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Identity": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "SourceId": "AgencyTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\wwwroot\\",
       "BasePath": "_content/AgencyTemplate",
       "RelativePath": "manage/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",

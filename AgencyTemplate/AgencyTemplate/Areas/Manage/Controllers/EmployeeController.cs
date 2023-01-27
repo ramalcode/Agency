@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore;
 namespace AgencyTemplate.Areas.Manage.Controllers
 {
     [Area("Manage")]
-    [Authorize]
+
     public class EmployeeController : Controller
     {
         AppDBContext _context;
@@ -118,13 +118,13 @@ namespace AgencyTemplate.Areas.Manage.Controllers
             if (employee == null) return NotFound();
             if (employeeVM.Image != null)
             {
-                string result = employeeVM.Image.CheckValidate("image/", 500);
+                string result = employeeVM.Image.CheckValidate("image/", 5);
                 if (result.Length > 0)
                 {
                     ModelState.AddModelError("Image", result); return View();
                 }
                     employee.ImageUrl.DeleteFile(_env.WebRootPath, "assets/img/team");
-                    employee.ImageUrl = employeeVM.Image.SaveFile(Path.Combine(_env.WebRootPath, "assets/img/team"));
+                    employee.ImageUrl = employeeVM.Image.SaveFile(Path.Combine(_env.WebRootPath, "assets","img", "team"));
             }
             if (!_context.Positions.Any(p => p.Id == employeeVM.PositionId))
             {

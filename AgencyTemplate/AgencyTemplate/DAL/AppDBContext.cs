@@ -13,5 +13,12 @@ namespace AgencyTemplate.DAL
         public DbSet<AppUser> AppUsers { get; set; }
         public DbSet<Setting> Settings { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder.Entity<Position>().HasIndex(p => p.Name).IsUnique();
+            base.OnModelCreating(builder);
+        }
+
     }
+
 }

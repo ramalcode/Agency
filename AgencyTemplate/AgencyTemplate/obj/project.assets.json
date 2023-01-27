@@ -10689,11 +10689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\AgencyTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\AgencyTemplate.csproj",
       "projectName": "AgencyTemplate",
-      "projectPath": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\AgencyTemplate.csproj",
+      "projectPath": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\AgencyTemplate.csproj",
       "packagesPath": "C:\\Users\\Ramal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ramal\\Desktop\\AgencyTemplate\\AgencyTemplate\\obj\\",
+      "outputPath": "C:\\Users\\Ramal\\Desktop\\Template\\AgencyTemplate\\AgencyTemplate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ramal\\AppData\\Roaming\\NuGet\\NuGet.Config",

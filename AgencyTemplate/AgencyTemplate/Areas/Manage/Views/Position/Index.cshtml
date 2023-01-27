@@ -3,7 +3,7 @@
     ViewData["Title"] = "Index";
 }
 
-@model IEnumerable<Position>
+@model PaginationVM<Position>
 
 <div class="col-md-12 stretch-card">
     <div class="card">
@@ -20,7 +20,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach (var item in Model)
+                        @foreach (var item in (Model.Items ?? new List<Position>()))
                         {
                             <tr>
                                 <td>@item.Name</td>
@@ -33,23 +33,23 @@
                 </table>
                 <nav aria-label="...">
                     <ul class="pagination pagination-lg">
-                    @if (ViewBag.CurrentPage>1)
+                    @if (Model.CurrentPage>1)
                     {
                         <li class="page-item">
-                          <a class="page-link" asp-action="Index" asp-route-page="@(ViewBag.CurrentPage-1)" tabindex="-1">Previous</a>
+                          <a class="page-link" asp-action="Index" asp-route-page="@(Model.CurrentPage-1)" tabindex="-1">Previous</a>
                         </li>
                         
                     }
-                    @for (int i = 1; i <= ViewBag.MaxPageCount; i++)
+                    @for (int i = 1; i <= Model.MaxPageCount; i++)
                         {
-                            <li class="page-item  @(ViewBag.CurrentPage==i?" disabled":"")">
+                            <li class="page-item  @(Model.CurrentPage==i?" disabled":"")">
                                 <a class="page-link" asp-action="Index"  asp-route-page="@i" tabindex="-1">@i</a>
                             </li>
                         }
-                        @if (ViewBag.CurrentPage<ViewBag.MaxPageCount)
+                        @if (Model.CurrentPage<Model.MaxPageCount)
                         {
                             <li class="page-item">
-                                <a class="page-link" asp-action="Index"  asp-route-page="@(ViewBag.CurrentPage+1)" tabindex="-1">Next</a>
+                                <a class="page-link" asp-action="Index"  asp-route-page="@(Model.CurrentPage+1)" tabindex="-1">Next</a>
                             </li>
                         }
                     </ul>

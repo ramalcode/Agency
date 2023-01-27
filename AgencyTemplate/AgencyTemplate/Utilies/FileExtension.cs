@@ -7,7 +7,7 @@
 
         static string ChangeFileName(string oldName)
         {
-            string extension = oldName.Substring(oldName.IndexOf('.'));
+            string extension = oldName.Substring(oldName.LastIndexOf('.'));
             if(oldName.Length < 32)
             {
                 oldName = oldName.Substring(0,oldName.IndexOf('.'));
@@ -41,13 +41,13 @@
         public static string CheckValidate(this IFormFile file, string type, int kb)
         {
             string result = "";
-            if (!file.CheckType(type))
+            if (!CheckType(file,type))
             {
-                result += "Type is wrong";
+                result += $"{file.FileName} faylinin tipi {type} olmalidir.";
             }
-            if (!file.CheckSize(kb))
+            if (!CheckSize(file,kb))
             {
-                result += "Size is wrong";
+                result += $"{file.FileName} faylinin hecmi {kb} kb-dan artiq olmamalidir.";
             }
             return result;
         }
